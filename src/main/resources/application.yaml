@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet-path: /api/v1
+security:
+  basic:
+    enabled: false
+
+logging:
+  level:
+    com.staxter: DEBUG

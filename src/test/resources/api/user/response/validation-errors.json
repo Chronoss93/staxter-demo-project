@@ -1,0 +1,10 @@
+{
+  "code": "DTO_VALIDATION_ERROR",
+  "description": [
+    "password length must be between 6 and 20",
+    "username length must be between 6 and 10",
+    "first name must not be empty string",
+    "last name must not be empty string",
+    "last name must not be null"
+  ]
+}

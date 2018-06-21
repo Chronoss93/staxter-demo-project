@@ -1,0 +1,6 @@
+{
+  "code": "USER_ALREADY_EXIST",
+  "description": [
+    "User with such username already exist"
+  ]
+}
