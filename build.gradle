@@ -32,10 +32,6 @@ dependencies {
 	}
 	compile "org.springframework.boot:spring-boot-starter-web-services"
 	compile "org.springframework.boot:spring-boot-starter-security"
-	compile "org.springframework.data:spring-data-mongodb"
-	compile "org.springframework.boot:spring-boot-starter-actuator"
-
-	compile "org.springframework.restdocs:spring-restdocs-core"
 	compile "com.google.guava:guava:23.5-jre"
 
 	//lombok:
